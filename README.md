@@ -1,6 +1,9 @@
 # IBM-Project-9086-1658975183
 <h3>Global Sales Data Analytics</h3>
 
+<h1> Faculty Mentor Name </h1>
+<ul><li> KUMARAN M </li></ul>
+
 <h1> Team Leader</h1>
 <ul><li> Gowtham Prabhakaran R </li></ul>
 
